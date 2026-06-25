@@ -6,8 +6,7 @@ The trained model files used in this project are not included in this repository
 
 * **lipreading_epoch29.keras** – Main visual speech recognition model
 * **ctc_epoch29.keras** – CTC-based decoding model
-* **ctc_epoch29.keras** – CTC-based decoding model
-* **ctc_epoch29.keras** – CTC-based decoding model
+* **lipreading_fixed.keras** – CTC-based decoding model
 ## Processed Training Data
     Xv2.npy
     Yv2.npy
