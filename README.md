@@ -61,6 +61,9 @@ Command + Color + Preposition + Letter + Digit + Adverb
 * Pretrained ImageNet weights
 * Spatial feature extraction
 
+<img width="1730" height="666" alt="frame vs mouth" src="https://github.com/user-attachments/assets/068ed6ba-7dc9-4d20-afa4-1fd134852d4c" />
+
+
 ### 4. Temporal Modeling
 
 * Bidirectional LSTM Networks
@@ -74,16 +77,20 @@ Command + Color + Preposition + Letter + Digit + Adverb
 ---
 ## Sample Mouth ROI
 
-!<img width="2002" height="496" alt="mouth_frames" src="https://github.com/user-attachments/assets/90892f99-ed51-4244-aad1-25ba2f81abb0" />
+<img width="2002" height="496" alt="mouth_frames" src="https://github.com/user-attachments/assets/90892f99-ed51-4244-aad1-25ba2f81abb0" />
 
 
 ## Training Loss
 
-![Training Loss](results/training_loss.png)
+<img width="1448" height="924" alt="Training_loss_epoches" src="https://github.com/user-attachments/assets/5df13a8f-102a-449e-93f5-cbbc1e04770b" />
 
-## Performance Metrics
+<img width="1496" height="1446" alt="training_loss" src="https://github.com/user-attachments/assets/49fb71de-ee17-431e-9107-55fbeaa4589e" />
 
-![Metrics](results/performance_metrics.png)
+
+
+## Performance Actual vs Predict
+
+<img width="1728" height="942" alt="actual vs predict" src="https://github.com/user-attachments/assets/ce7c7e44-a94e-499a-8d34-477f10d67d48" />
 
 
 ## Model Architecture
