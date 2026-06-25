@@ -1,1 +1,13 @@
+This project was developed through a structured multi-phase workflow. The implementation is organized into three separate core files for modular development, along with a final notebook that consolidates all results and the main execution pipeline.
+
+* **Phase 1:** Dataset preparation, validation, and transcript extraction
+* **Phase 2:** Face and mouth region detection using MediaPipe Face Mesh
+* **Phase 3:** Feature extraction, model training, and evaluation
+
+Additionally:
+
+* **Main Code Files:** Contain the complete training and inference pipeline
+* **Total Results Notebook:** Includes all experimental outputs, performance analysis, and final predictions
+
+This modular structure improves readability, maintainability, and reproducibility of the lip-reading system.
 
