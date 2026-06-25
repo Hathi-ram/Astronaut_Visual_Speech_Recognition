@@ -215,3 +215,8 @@ Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Ka
 ## License
 
 This project is intended for academic and research purposes.
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19-orange)
+![Keras](https://img.shields.io/badge/Keras-3.12-red)
+![License](https://img.shields.io/badge/License-MIT-green)
