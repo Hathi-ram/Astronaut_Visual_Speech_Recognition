@@ -2,8 +2,8 @@
 
 ## Dataset Overview
 - Dataset root: `C:\Users\prash\Downloads\archive (3)\data\s1`
-- Total files: 1001
-- Total video files: 1000
+- Total files: 1001 to 3002
+- Total video files: 1000 to 3002 but i used 1001 videos
 - File type distribution: {'.mpg': 1000, '.db': 1}
 
 ## Directory Structure
