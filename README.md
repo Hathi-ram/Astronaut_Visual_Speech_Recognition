@@ -74,7 +74,7 @@ Command + Color + Preposition + Letter + Digit + Adverb
 ---
 ## Sample Mouth ROI
 
-!![Uploading mouth_frames.png…]()
+![C:\Users\Visla\Downloads\Files\Project_file\Project-6\results\frame vs mouth.png]
 
 
 ## Training Loss
