@@ -72,7 +72,17 @@ Command + Color + Preposition + Letter + Digit + Adverb
 * Text decoding
 
 ---
-## <img width="1730" height="666" alt="frame vs mouth" src="https://github.com/user-attachments/assets/ba545191-edf9-48e8-96ff-a3dc13ea2df3" />
+## Sample Mouth ROI
+
+![Frame vs Mouth ROI](results/frame_vs_mouth.png)
+
+## Training Loss
+
+![Training Loss](results/training_loss.png)
+
+## Performance Metrics
+
+![Metrics](results/performance_metrics.png)
 
 
 ## Model Architecture
