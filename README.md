@@ -44,6 +44,7 @@ Command + Color + Preposition + Letter + Digit + Adverb
 * Face detection using MediaPipe Face Mesh
 * Lip landmark localization
 * Mouth Region of Interest (ROI) extraction
+  <img width="1730" height="666" alt="frame vs mouth" src="https://github.com/user-attachments/assets/068ed6ba-7dc9-4d20-afa4-1fd134852d4c" />
 
 ## 
 
@@ -61,7 +62,7 @@ Command + Color + Preposition + Letter + Digit + Adverb
 * Pretrained ImageNet weights
 * Spatial feature extraction
 
-<img width="1730" height="666" alt="frame vs mouth" src="https://github.com/user-attachments/assets/068ed6ba-7dc9-4d20-afa4-1fd134852d4c" />
+<img width="2232" height="554" alt="sample_video_frames" src="https://github.com/user-attachments/assets/6f373e5f-861e-4273-be6d-ee57a9d5ffda" />
 
 
 ### 4. Temporal Modeling
