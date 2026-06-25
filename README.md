@@ -74,7 +74,8 @@ Command + Color + Preposition + Letter + Digit + Adverb
 ---
 ## Sample Mouth ROI
 
-![Frame vs Mouth ROI](results/frame_vs_mouth.png)
+!![Uploading mouth_frames.png…]()
+
 
 ## Training Loss
 
