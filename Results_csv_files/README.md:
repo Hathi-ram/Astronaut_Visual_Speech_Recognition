@@ -1,1 +1,42 @@
+# Dataset Files
+
+The original dataset and generated training files are not included in this repository due to storage limitations and dataset licensing restrictions.
+
+## Dataset
+
+This project uses the GRID Corpus dataset for visual speech recognition and lip-reading experiments.
+
+## Excluded Files
+
+### Video Files
+
+* Original GRID Corpus video files
+* Preprocessed mouth ROI video sequences
+
+### Training Files
+
+* Xv2.npy
+* Yv2.npy
+* Training and testing split files
+
+### CSV Files
+
+* Generated metadata CSV files
+* Training result CSV files
+* Prediction result CSV files
+
+## How to Reproduce
+
+1. Download the GRID Corpus dataset from the official source.
+2. Place the video files in the dataset directory.
+3. Run the preprocessing notebook to extract mouth regions.
+4. Generate the training files (Xv2.npy and Yv2.npy).
+5. Train the model using the provided notebook.
+
+## Project
+
+Real-Time Astronaut Command Recognition Through Transfer Learning-Based Automatic Lip Reading
+
+Author: Vislavath Hathiram
+IIITDM Kancheepuram
 
