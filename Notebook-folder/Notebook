@@ -1,4 +1,4 @@
-This project was developed through a structured multi-phase workflow. The implementation is organized into three separate core files for modular development, along with a final notebook that consolidates all results and the main execution pipeline.
+## This project was developed through a structured multi-phase workflow. The implementation is organized into three separate core files for modular development, along with a final notebook that consolidates all results and the main execution pipeline.
 
 * **Phase 1:** Dataset preparation, validation, and transcript extraction
 * **Phase 2:** Face and mouth region detection using MediaPipe Face Mesh
