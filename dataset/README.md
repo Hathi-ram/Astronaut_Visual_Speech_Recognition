@@ -9,5 +9,5 @@ https://spandh.dcs.shef.ac.uk/gridcorpus/
 
 After downloading the dataset, place the files inside:
 
-dataset/
+
 
