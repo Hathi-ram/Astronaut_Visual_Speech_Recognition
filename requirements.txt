@@ -1,0 +1,14 @@
+tensorflow>=2.19.0
+keras>=3.12.0
+numpy
+pandas
+opencv-python
+mediapipe
+matplotlib
+scikit-learn
+jiwer
+rouge-score
+tqdm
+streamlit
+Pillow
+h5py
