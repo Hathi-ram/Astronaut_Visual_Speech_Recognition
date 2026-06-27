@@ -206,7 +206,7 @@ https://spandh.dcs.shef.ac.uk/gridcorpus/
 
 **Vislavath Hathiram**
 
-B.Tech Smart Manufacturing Engineering
+B.Tech 
 
 Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Kancheepuram
 
