@@ -46,7 +46,6 @@ Command + Color + Preposition + Letter + Digit + Adverb
 * Mouth Region of Interest (ROI) extraction
   <img width="1730" height="666" alt="frame vs mouth" src="https://github.com/user-attachments/assets/068ed6ba-7dc9-4d20-afa4-1fd134852d4c" />
 
-## 
 
 ### 2. Preprocessing
 
@@ -94,7 +93,7 @@ Command + Color + Preposition + Letter + Digit + Adverb
 <img width="1728" height="942" alt="actual vs predict" src="https://github.com/user-attachments/assets/ce7c7e44-a94e-499a-8d34-477f10d67d48" />
 
 
-## Model Architecture
+### Model Architecture
 
 Video Input
 
@@ -202,17 +201,17 @@ https://spandh.dcs.shef.ac.uk/gridcorpus/
 
 ---
 
-## Author
+### Author
 
 **Vislavath Hathiram**
 
 B.Tech 
 
-Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Kancheepuram
+Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Kancheepuram Chennai Tamilnadu
 
 ---
 
-## License
+### License
 
 This project is intended for academic and research purposes.
 
