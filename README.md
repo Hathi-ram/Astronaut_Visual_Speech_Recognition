@@ -137,6 +137,21 @@ Predicted Command
 
 ---
 
+
+## Training Configuration
+
+| Parameter | Value |
+| :--- | :--- |
+| **Dataset** | GRIDCorpus |
+| **Input Size** | 64 × 128 |
+| **Sequence Length** | 75 Frames |
+| **Feature Extractor** | MobileNetV2 |
+| **Temporal Model** | Stacked BiLSTM |
+| **Optimizer** | Adam |
+| **Learning Rate** | 1 × 10⁻⁴ (`1e-4`) |
+| **Loss Function** | CTC Loss |
+| **Decoder** | Beam Search |
+
 ## Sample Predictions
 
 | Actual                     | Predicted                 |
