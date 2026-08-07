@@ -36,6 +36,16 @@ Dataset Structure:
 Command + Color + Preposition + Letter + Digit + Adverb
 
 ---
+## Comparison of Recent Visual Speech Recognition Methods
+
+| Reference | Year | Dataset | Method | Reported Performance |
+| :--- | :---: | :--- | :--- | :--- |
+| **Santos et al.** | 2021 | GRID | InceptionV3 + Transfer Learning | Precision = 0.61, Recall = 0.53, F1 score = 0.51 |
+| **Ma et al.** | 2021 | LRS2 / LRS3 | ResNet18 + Conformer + CTC | State-of-the-art Word Error Rate (WER) |
+| **Ma et al.** | 2022 | LRS2 / LRS3 | Transformer-based VSR | State-of-the-art multilingual performance |
+| **Koumparoulis et al.** | 2022 | VSRICU + GRID | Two-stage CNN + LSTM | Robust recognition in ICU environment |
+| **Yu et al.** | 2022 | Large Vocabulary AVSR | Decision Fusion Network | Improved noisy audio-visual speech recognition |
+| **Proposed** | 2026 | GRID | MediaPipe Face Mesh + MobileNetV2 + BiLSTM + CTC | **Character Accuracy:** 85.77%<br>**Word Accuracy:** 69.67%<br>**CER:** 14.23%<br>**WER:** 26.33% |
 
 ## Methodology
 
