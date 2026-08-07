@@ -39,6 +39,9 @@ Command + Color + Preposition + Letter + Digit + Adverb
 
 ## Methodology
 
+<img width="2720" height="1378" alt="image" src="https://github.com/user-attachments/assets/7aaeb77f-38e1-4f9d-925b-43e580de8b6a" />
+
+
 ### 1. Mouth Region Extraction
 
 * Face detection using MediaPipe Face Mesh
