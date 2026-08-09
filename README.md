@@ -148,7 +148,7 @@ Predicted Command
 ---
 
 
-## Training Configuration
+### Training Configuration
 
 | Parameter | Value |
 | :--- | :--- |
